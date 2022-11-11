@@ -2,8 +2,8 @@
 
 | 장   | 제목                                                                                                                   |
 |-----|----------------------------------------------------------------------------------------------------------------------|
-| 0   | [제목 0](https://colab.research.google.com/github//smha-Promedius/vit_lecture/blob/master/notebooks/ch00_intro.ipynb)  |
-| 1   | [제목 1](https://colab.research.google.com/github//smha-Promedius/vit_lecture/blob/master/notebooks/ch01_python.ipynb) |
+| 0   | [제목 0](https://colab.research.google.com/github/smha-Promedius/vit_lecture/blob/master/notebooks/ch00_intro.ipynb)  |
+| 1   | [제목 1](https://colab.research.google.com/github/smha-Promedius/vit_lecture/blob/master/notebooks/ch01_python.ipynb) |
 
 
 ---
